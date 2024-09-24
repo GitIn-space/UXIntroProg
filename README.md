@@ -1,0 +1,1 @@
+First lecture: added the new input system (Window -> Packet Manager -> Unity Repository -> Input System). Went through what all the words mean in the Input script as we made it. Went through the different components and windows in Unity. Implemented movement and jumping. Made a little platform to stand on.
